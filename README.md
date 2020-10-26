@@ -3,7 +3,7 @@ Building AI part 2 proposal
 
 
 
-# Project Title
+# Project TST
 
 Final project for the Building AI course
 
